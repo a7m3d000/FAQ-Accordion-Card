@@ -1,0 +1,75 @@
+.App {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #fff;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  box-shadow: 4.2px 4.2px 3.1px rgba(0, 0, 0, 0.028),
+    9.8px 9.8px 7.7px rgba(0, 0, 0, 0.04),
+    18.9px 18.9px 15.8px rgba(0, 0, 0, 0.05),
+    37.2px 37.2px 32.5px rgba(0, 0, 0, 0.062),
+    100px 100px 89px rgba(0, 0, 0, 0.09);
+}
+
+.App {
+  background-image: url("./images/bg-pattern-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: -730px -420px;
+}
+
+@media screen and (min-width: 1440px) {
+  .App {
+    background-size: 100%;
+    background-position: -630px -260px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .App {
+    background-size: 100%;
+    background-position: -650px -185px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  html,
+  body {
+    display: block;
+  }
+
+  .App {
+    margin-top: 250px;
+    background-size: 75%;
+    background-position: 90px -290px;
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .App {
+    margin-top: 175px;
+    background-size: 75%;
+    background-position: 50px -170px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .App {
+    margin-top: 150px;
+    background-size: 75%;
+    background-position: 45px -145px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .App {
+    margin-top: 130px;
+    background-size: 75%;
+    background-position: 35px -125px;
+  }
+}
