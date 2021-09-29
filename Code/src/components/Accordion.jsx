@@ -66,13 +66,15 @@ const Parent = styled.article`
 
   @media screen and (max-width: 768px) {
     padding: 1em;
+    padding-bottom: 3em;
+    .accordion {
+      height: auto;
+    }
   }
 
   @media screen and (max-width: 425px) {
     padding: 1em 0em;
-    .accordion {
-      height: 580px;
-    }
+    padding-bottom: 2em;
   }
 `;
 

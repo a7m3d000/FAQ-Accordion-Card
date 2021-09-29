@@ -34,3 +34,9 @@ body {
   height: 100vh;
   top: 0;
 }
+
+@media screen and (max-width: 576px) {
+  body .cont {
+    padding-bottom: 10em;
+  }
+}

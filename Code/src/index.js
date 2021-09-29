@@ -12,7 +12,7 @@ import App from "./App";
 ReactDOM.render(
   <React.StrictMode>
     <div className="bg"></div>
-    <div className="container">
+    <div className="container cont">
       <App />
     </div>
   </React.StrictMode>,
