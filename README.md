@@ -39,4 +39,4 @@ This is a [**FAQ Accordion Card**](https://faqaccordion.vercel.app/), It is a Ni
 
 # Web App Screenshot
 
-![FAQ Accordion Card]()
+![FAQ Accordion Card](https://github.com/ahmedmohmd/faq-accordion-card/blob/main/app-screenshot.png?raw=true)
