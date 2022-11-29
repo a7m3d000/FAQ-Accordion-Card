@@ -1,21 +1,42 @@
-## :clipboard: Basic Info
-  #### :bulb: Project Name: [**FAQ Accordion Card**](https://a7m3d000.github.io/H--FAQ-Accordion-Card/)
-  #### :bulb: Project Type: **Challenge** from **Front End Mentor** Website 
-  #### :bulb: Project Level: **Heigh** -> **[ H ]**
-  
-  #### :bulb: Challenge URL: [**FAQ Accordion Card**](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)
-  
----
+# FAQ Accordion Card
 
-## :clipboard: Basic Languages
- - [x] HTML
- - [x] CSS
- - [x] JavaScript
+Simple Calculator web app.
 
 ---
 
-## :clipboard: Frameworks
- :pushpin: Frameworks
-   - [x] React
+# Description
 
+This is a [**FAQ Accordion Card**](https://faqaccordion.vercel.app/), It is a Nice and Simple Accordion Page .
 
+---
+
+# App Features
+
+- Responsive
+- Nice Design with Bootstrap Framework
+- Speed & Good Performance
+
+---
+
+# Languages & Technologies
+
+### Languages used in this Web App:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=ar"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="48" height="48"/></a>
+</div>
+
+### Technolohies that used in this App:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://reactjs.org/"><img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="drawing" width="48" height="48"/></a>
+    <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/></a>
+</div>
+
+---
+
+# Web App Screenshot
+
+![FAQ Accordion Card]()
